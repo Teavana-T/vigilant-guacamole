@@ -1,0 +1,12 @@
+{
+    "bundles": [
+        {
+            "name": "Igor's Designer Bundle",
+            "tradein": true,
+            "expires": "2023-07-21",
+            "basket": [
+                "s23u", "w5p"
+            ]
+        }
+    ]
+}

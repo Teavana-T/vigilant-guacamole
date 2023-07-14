@@ -204,5 +204,46 @@
                 "hex": "#B2A1CD"
             }
         ]
+    },
+    "a54": {
+        "name": "A54",
+        "scpGroup": "a5x",
+        "tradein": 0,
+        "sizes": [
+            {
+                "name": "128GB",
+                "rrp": 449,
+                "price": 449,
+                "ram": "8GB"
+            },
+            {
+                "name": "256GB",
+                "rrp": 499,
+                "price": 499,
+                "ram": "8GB"
+            }
+        ],
+        "colours": [
+            {
+                "name": "Graphite",
+                "img": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-f721bzageub/gallery/uk-galaxy-z-flip4-f721-sm-f721bzageub-thumb-534230135?imwidth=480",
+                "hex": "#000000"
+            },
+            {
+                "name": "Pink Gold",
+                "img": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-f721bzdgeub/gallery/uk-galaxy-z-flip4-f721-sm-f721bzdgeub-thumb-534230228?imwidth=480",
+                "hex": "#E6D3C9"
+            },
+            {
+                "name": "Blue",
+                "img": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-f721blbgeub/gallery/uk-galaxy-z-flip4-f721-sm-f721blbgeub-thumb-534229962?imwidth=480",
+                "hex": "#B7C1D6"
+            },
+            {
+                "name": "Bora Purple",
+                "img": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-f721blvgeub/gallery/uk-galaxy-z-flip4-f721-sm-f721blvgeub-thumb-534230046?imwidth=480",
+                "hex": "#B2A1CD"
+            }
+        ]
     }
 }
