@@ -2,7 +2,7 @@
     "s23u": {
         "name": "S23 Ultra",
         "scpGroup": "s2x",
-        "tradein": 150,
+        "tradein": 250,
         "sizes": [
             {
                 "name": "256GB",
