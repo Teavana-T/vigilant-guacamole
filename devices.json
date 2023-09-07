@@ -1,5 +1,6 @@
 {
     "s23u": {
+        "state": 1,
         "name": "S23 Ultra",
         "scpGroup": "s2x",
         "tradein": 250,
@@ -47,6 +48,7 @@
         ]
     },
     "s23p": {
+        "state": 1,
         "name": "S23+",
         "scpGroup": "s2x",
         "tradein": 100,
@@ -88,6 +90,7 @@
         ]
     },
     "s23": {
+        "state": 1,
         "name": "S23",
         "scpGroup": "s2x",
         "tradein": 100,
@@ -128,7 +131,29 @@
             }
         ]
     },
+    "zfold5": {
+        "state": 2,
+        "name": "Z Fold5",
+        "scpGroup": "zfold5",
+        "tradein": 300,
+        "sizes": [
+            {
+                "name": "256GB",
+                "rrp": 1749,
+                "price": 1749,
+                "ram": "8GB"
+            }
+        ],
+        "colours": [
+            {
+                "name": "Phantom Black",
+                "img": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-z-fold5-f946-466188-sm-f946bzkbeub-thumb-537168263?imwidth=480",
+                "hex": "#000000"
+            }
+        ]
+    },
     "zfold4": {
+        "state": 0,
         "name": "Z Fold4",
         "scpGroup": "zfold",
         "tradein": 0,
@@ -165,6 +190,7 @@
         ]
     },
     "zflip4": {
+        "state": 0,
         "name": "Z Flip4",
         "scpGroup": "zflip",
         "tradein": 0,
@@ -206,6 +232,7 @@
         ]
     },
     "a54": {
+        "state": 1,
         "name": "A54",
         "scpGroup": "a5x",
         "tradein": 0,
