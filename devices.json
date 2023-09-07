@@ -3,7 +3,7 @@
         "state": 1,
         "name": "S23 Ultra",
         "scpGroup": "s2x",
-        "tradein": 250,
+        "tradein": 150,
         "sizes": [
             {
                 "name": "256GB",
@@ -56,13 +56,13 @@
             {
                 "name": "256GB",
                 "rrp": 1049,
-                "price": 899,
+                "price": 1049,
                 "ram": "8GB"
             },
             {
                 "name": "512GB",
                 "rrp": 1149,
-                "price": 999,
+                "price": 1149,
                 "ram": "8GB"
             }
         ],
