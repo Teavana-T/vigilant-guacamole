@@ -134,7 +134,7 @@
     "zfold5": {
         "state": 2,
         "name": "Z Fold5",
-        "scpGroup": "zfold5",
+        "scpGroup": "z5",
         "tradein": 300,
         "sizes": [
             {

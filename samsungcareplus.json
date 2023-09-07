@@ -106,5 +106,15 @@
             "name": "2 Year T/L",
             "price": 167.2
         }
-    ]
+    ],
+    "z5": [
+        {
+        "name": "2 Year AD",
+        "price": 69.99
+    },
+    {
+        "name": "2 Year T/L",
+        "price": 139.99
+    }
+]
 }
