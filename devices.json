@@ -4,6 +4,7 @@
         "name": "S23 Ultra",
         "scpGroup": "s2x",
         "tradein": 150,
+        "offers": [],
         "sizes": [
             {
                 "name": "256GB",
@@ -52,6 +53,7 @@
         "name": "S23+",
         "scpGroup": "s2x",
         "tradein": 100,
+        "offers": [],
         "sizes": [
             {
                 "name": "256GB",
@@ -94,6 +96,7 @@
         "name": "S23",
         "scpGroup": "s2x",
         "tradein": 100,
+        "offers": [],
         "sizes": [
             {
                 "name": "128GB",
@@ -136,6 +139,18 @@
         "name": "Z Fold5",
         "scpGroup": "z5",
         "tradein": 300,
+        "offers": [
+            {
+                "type": "instore",
+                "display": "10% the phone & any ECO product when purchased together!",
+                "eligibles": ["w6c", "w6", "buds2", "flip5", "tabs9", "tabs9p", "tabs9u", "fold5"]
+            },
+            {
+                "type": "claim",
+                "display": "Claim 12 Months of Disney+ for free!",
+                "link": ""
+            }
+        ],
         "sizes": [
             {
                 "name": "256GB",
@@ -179,6 +194,22 @@
         "name": "Z Flip5",
         "scpGroup": "z5",
         "tradein": 200,
+        "offers": [
+            {
+                "type": "instore",
+                "display": "10% the phone & any ECO product when purchased together!",
+                "eligibles": ["w6c", "w6", "buds2", "flip5", "tabs9", "tabs9p", "tabs9u", "fold5"]
+            },
+            {
+                "type": "claim",
+                "display": "Claim a free Chromebook when you purchase any Flip 5"
+            },
+            {
+                "type": "claim",
+                "display": "Claim 12 Months of Disney+ for free!",
+                "link": ""
+            }
+        ],
         "sizes": [
             {
                 "name": "256GB",
@@ -221,6 +252,7 @@
         "name": "Z Fold4",
         "scpGroup": "zfold",
         "tradein": 0,
+        "offers": [],
         "sizes": [
             {
                 "name": "256GB",
@@ -258,6 +290,7 @@
         "name": "Z Flip4",
         "scpGroup": "zflip",
         "tradein": 0,
+        "offers": [],
         "sizes": [
             {
                 "name": "128GB",
@@ -300,6 +333,7 @@
         "name": "A54",
         "scpGroup": "a5x",
         "tradein": 0,
+        "offers": [],
         "sizes": [
             {
                 "name": "128GB",
