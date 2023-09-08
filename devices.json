@@ -174,6 +174,48 @@
             }
         ]
     },
+    "zflip5": {
+        "state": 2,
+        "name": "Z Flip5",
+        "scpGroup": "z5",
+        "tradein": 200,
+        "sizes": [
+            {
+                "name": "256GB",
+                "rrp": 1049,
+                "price": 1049,
+                "ram": "8GB"
+            },
+            {
+                "name": "512GB",
+                "rrp": 1149,
+                "price": 1149,
+                "ram": "8GB"
+            }
+        ],
+        "colours": [
+            {
+                "name": "Mint",
+                "img": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-z-flip5-f731-sm-f731blggeub-thumb-537163285?imwidth=480",
+                "hex": "#98fb98"
+            },
+            {
+                "name":"Graphite",
+                "img":"https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-z-flip5-f731-sm-f731bzageub-thumb-537163370?imwidth=480",
+                "hex":"#000000"
+            },
+            {
+                "name":"Lavender",
+                "img":"https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-z-flip5-f731-sm-f731bligeub-thumb-537163328?imwidth=480",
+                "hex":"#E6E6FA"
+            },
+            {
+                "name":"Cream",
+                "img":"https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-z-flip5-f731-sm-f731bzegeub-thumb-537163441?imwidth=480",
+                "hex":"#FFXDD0"
+            }
+        ]
+    },
     "zfold4": {
         "state": 0,
         "name": "Z Fold4",
