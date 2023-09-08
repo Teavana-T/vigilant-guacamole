@@ -195,14 +195,14 @@
         ],
         "colours": [
             {
-                "name": "Mint",
-                "img": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-z-flip5-f731-sm-f731blggeub-thumb-537163285?imwidth=480",
-                "hex": "#98fb98"
-            },
-            {
                 "name":"Graphite",
                 "img":"https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-z-flip5-f731-sm-f731bzageub-thumb-537163370?imwidth=480",
                 "hex":"#000000"
+            },
+            {
+                "name": "Mint",
+                "img": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-z-flip5-f731-sm-f731blggeub-thumb-537163285?imwidth=480",
+                "hex": "#98fb98"
             },
             {
                 "name":"Lavender",

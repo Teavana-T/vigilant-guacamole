@@ -1,12 +1,14 @@
 {
     "bundles": [
         {
-            "name": "Igor's Designer Bundle",
+            "name": "What's the name of the game",
+            "accredit": "Shae",
             "tradein": true,
-            "expires": "2023-07-21",
+            "expires": "2023-09-10",
             "basket": [
-                "s23u", "w5p"
-            ]
+                {"item": "zflip5", "care":"1"}, {"item": "tabs9", "care":"1"}, {"item":"VA", "amount":10.70}
+            ],
+            "colour": "#CCFFCC"
         }
     ]
 }
