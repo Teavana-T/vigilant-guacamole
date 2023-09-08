@@ -141,7 +141,19 @@
                 "name": "256GB",
                 "rrp": 1749,
                 "price": 1749,
-                "ram": "8GB"
+                "ram": "12GB"
+            },
+            {
+                "name": "512GB",
+                "rrp": 1849,
+                "price": 1849,
+                "ram": "12GB"
+            },
+            {
+                "name": "1TB",
+                "rrp": 2049,
+                "price": 2049,
+                "ram": "12GB"
             }
         ],
         "colours": [
@@ -149,6 +161,16 @@
                 "name": "Phantom Black",
                 "img": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-z-fold5-f946-466188-sm-f946bzkbeub-thumb-537168263?imwidth=480",
                 "hex": "#000000"
+            },
+            {
+                "name": "Icy Blue",
+                "img": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-z-fold5-f946-466188-sm-f946blbbeub-thumb-537168147?imwidth=480",
+                "hex": "#76B5C5"
+            },
+            {
+                "name": "Cream",
+                "img": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-z-fold5-f946-466188-sm-f946bzebeub-thumb-537168204?imwidth=480",
+                "hex": "#F9F9F9"
             }
         ]
     },
